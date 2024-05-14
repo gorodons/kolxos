@@ -1,0 +1,16 @@
+root:x:0:root
+sys:x:3:bin,doyarka
+network:x:90:doyarka
+power:x:98:doyarka
+adm:x:999:doyarka
+wheel:x:998:doyarka
+uucp:x:987:doyarka
+optical:x:990:doyarka
+rfkill:x:983:doyarka
+video:x:986:doyarka
+storage:x:988:doyarka
+audio:x:995:doyarka
+users:x:985:doyarka
+nopasswdlogin:x:966:doyarka
+autologin:x:967:doyarka
+doyarka:x:1000:
